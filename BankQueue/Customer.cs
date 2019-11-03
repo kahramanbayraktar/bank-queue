@@ -5,5 +5,6 @@
         public int CustomerId { get; set; }
         public string CustomerName { get; set; }
         public int Priority { get; set; }
+        public int ServiceTime { get; set; }
     }
 }
